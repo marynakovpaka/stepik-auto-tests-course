@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-Homeworks
+Homeworks from course "Automation testing with Selenium Webdriver on Python".
